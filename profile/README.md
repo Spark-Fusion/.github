@@ -1,5 +1,9 @@
 # 燃点聚变 Spark Fusion
 
+## 📚 文档目录
+
+- [Git 规范流程](./../document/git-workflow.md) - 团队 Git 工作流程与规范
+
 ## 关于我们
 
 **燃点聚变**（Spark Fusion）是一个充满活力与创造力的组织。我们的名字源于两个核心理念：
