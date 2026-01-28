@@ -19,7 +19,7 @@ Step.1 添加依赖
 	}
 
 	dependencies {
-	        implementation 'com.github.Spark-Fusion:SparkFusionSDK:1.0.0'
+	        implementation 'com.github.Spark-Fusion:SparkFusionSDK:TAG'
 	}
 ```
 
