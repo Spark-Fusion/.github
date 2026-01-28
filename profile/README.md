@@ -5,6 +5,7 @@
 - [Git 规范流程](./../document/git-workflow.md) - 团队 Git 工作流程与规范
 
 ## 隐私政策基本使用
+[![](https://jitpack.io/v/Spark-Fusion/SparkFusionSDK.svg)](https://jitpack.io/#Spark-Fusion/SparkFusionSDK)
 
 ### 使用SparkFusionSDK
 
